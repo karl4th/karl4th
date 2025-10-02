@@ -1,26 +1,43 @@
 # Hi, I’m Karl 👋  
 
-I turn ideas into fast, working software—then ship it in Docker.  
+I build **scalable backends and real-time systems** — fast, tested, and production-ready.  
+Passionate about high-load APIs, distributed systems, and turning complex ideas into working products.  
 
-- 🚀 5 yrs backend (4.5 Python) | 1 k rps live  
-- 🔑 Author of `fastapi-jwt-assem`  
-- 🌍 Fluent in Kazakh, Russian, English B2  
-- 📍 Open to relocate (KR · EU)  
+- 🚀 5+ yrs backend (4.5 Python) | systems running at 1k rps  
+- 🔑 Author of [`fastapi-jwt-assem`](https://github.com/karl4th/fastapi-jwt-assem) (open-source library for JWT)  
+- 🌍 Speak Kazakh & Russian fluently · English B2 (working proficiency)  
+- 📍 Open to relocate (KR · EU) · Remote-friendly
+  
+---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karl4th&show_icons=true&theme=radical)](https://github.com/karl4th)  
+## 🧑‍💻 About Me
+- I’ve spent the last **5 years building APIs, data pipelines, and real-time engines** for products in fintech, education, and automation.  
+- I care about **developer velocity**: shipping fast while keeping systems stable.  
+- My focus: **FastAPI + Docker + PostgreSQL + Kafka + Redis** → with modern DevOps practices.  
+- I believe in **clean code, good tests, and measurable impact**.  
 
-## 🔥 Pinned Power-Ups  
+---
+
+## 🚀 Impact Highlights
+- **4M genealogy records** processed in *Atatek* (cultural heritage project for Kazakhstan).  
+- Built **real-time delivery routing engine** (robot-delivery) using Python + Kafka.  
+- Designed **microservice architecture for SMB automation** (*Coosby*).  
+- Delivered **AI-powered task automation tool** (*Worklog*) with FastAPI + OpenAI.  
+- Created **JWT auth library** adopted by other developers worldwide.  
+
+---
+
+## 🔥 Featured Projects  
 | Project | Stars | Tech | Mission |
-|---------|------|------|---------|
+|---------|-------|------|---------|
 | [fastapi-jwt-assem](https://github.com/karl4th/fastapi-jwt-assem) | ![GitHub stars](https://img.shields.io/github/stars/karl4th/fastapi-jwt-assem?style=social) | FastAPI, PyJWT | One-line JWT auth |
-| [Atatek](https://github.com/karl4th/atatek) | ![GitHub stars](https://img.shields.io/github/stars/karl4th/atatek?style=social) | FastAPI, Next.js | 4 M Kazakh genealogy records |
+| [Atatek](https://github.com/karl4th/atatek) | ![GitHub stars](https://img.shields.io/github/stars/karl4th/atatek?style=social) | FastAPI, Next.js | 4M Kazakh genealogy records |
 | [Coosby](https://github.com/karl4th/coosby) | ![GitHub stars](https://img.shields.io/github/stars/karl4th/coosby?style=social) | Micro-services | SMB agent platform |
-| [Worklog](https://github.com/karl4th/worklog) | ![GitHub stars](https://img.shields.io/github/stars/karl4th/worklog?style=social) | FastAPI, OpenAI | AI task automation |
 | [robot-delivery](https://github.com/karl4th/robot-delivery) | ![GitHub stars](https://img.shields.io/github/stars/karl4th/robot-delivery?style=social) | Python, Kafka | Real-time route engine |
-| [online-school](https://github.com/karl4th/online-school) | ![GitHub stars](https://img.shields.io/github/stars/karl4th/online-school?style=social) | FastAPI, Docker | 1 k req/h bookings & chat |
 
-## 📊 GitHub Activity
-![Snake animation](https://github.com/karl4th/karl4th/blob/output/github-contribution-grid-snake.svg)
+➡️ [More projects](https://github.com/karl4th?tab=repositories)  
+
+---
 
 ## 🛠️ Stack Snapshot
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)
@@ -28,9 +45,27 @@ I turn ideas into fast, working software—then ship it in Docker.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-24+-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-3.5+-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-7+-DC382D?style=flat&logo=redis&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-1.60+-5F259F?style=flat&logo=grpc&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-5+-37814A?style=flat&logo=celery&logoColor=white)
+
+---
+
+## 🌱 What I’m Looking For
+I’m open to opportunities where I can:  
+- Build **scalable, high-load backends** (APIs, microservices, real-time engines).  
+- Work with **distributed systems** (Kafka, gRPC, event-driven architectures).  
+- Join a team that values **impact, ownership, and clean engineering practices**.  
+
+---
+
+## 📊 GitHub Activity
+![Snake animation](https://github.com/karl4th/karl4th/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ## 🤝 Let’s Build Together
 📬 bagzhankarl@gmail.com  
-📱 [Telegram](https://t.me/karl4th) | [LinkedIn](https://linkedin.com/in/karl4th) | [Resume](https://github.com/karl4th/resume)
+📱 [Telegram](https://t.me/karl4th) | [LinkedIn](https://linkedin.com/in/karl4th) | [Resume](https://github.com/karl4th/resume)  
 
-> "Move fast, ship faster, sleep later."
+> "Move fast, build smart, ship often."
