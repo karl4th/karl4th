@@ -27,18 +27,6 @@ Passionate about high-load APIs, distributed systems, and turning complex ideas 
 
 ---
 
-## 🔥 Featured Projects  
-| Project | Stars | Tech | Mission |
-|---------|-------|------|---------|
-| [fastapi-jwt-assem](https://github.com/karl4th/fastapi-jwt-assem) | ![GitHub stars](https://img.shields.io/github/stars/karl4th/fastapi-jwt-assem?style=social) | FastAPI, PyJWT | One-line JWT auth |
-| [Atatek](https://github.com/karl4th/atatek) | ![GitHub stars](https://img.shields.io/github/stars/karl4th/atatek?style=social) | FastAPI, Next.js | 4M Kazakh genealogy records |
-| [Coosby](https://github.com/karl4th/coosby) | ![GitHub stars](https://img.shields.io/github/stars/karl4th/coosby?style=social) | Micro-services | SMB agent platform |
-| [robot-delivery](https://github.com/karl4th/robot-delivery) | ![GitHub stars](https://img.shields.io/github/stars/karl4th/robot-delivery?style=social) | Python, Kafka | Real-time route engine |
-
-➡️ [More projects](https://github.com/karl4th?tab=repositories)  
-
----
-
 ## 🛠️ Stack Snapshot
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=flat&logo=fastapi&logoColor=white)
