@@ -2,44 +2,47 @@
 
 Building a new architecture for intelligence. Not just a specification — a manifesto for the next generation of AI.
 
-🌐 **Central Hub:** [manifestro.io](https://manifestro.io)
+🌐 **Central Hub:** [manifestro.io](https://manifestro.io)  
+🏛 **Organization:** [@Manifestro](https://github.com/Manifestro)
 
 ---
 
 ## 👤 About Me
 
-I am a **Founder and Lead ML Engineer** dedicated to building the next generation of intelligent systems. My work focuses on moving beyond standard benchmarks to create a unified ecosystem under the **Manifestro** vision.
+I am a **Founder and Lead ML Engineer** dedicated to building the next generation of intelligent systems. My work focuses on moving beyond static architectures to create a unified, adaptive ecosystem under the **Manifestro** vision.
 
-* **Founder:** Running a company focused on architectural innovation in AI.
-* **Architect:** Author of the **Manifestro** — a new conceptual framework for model interaction and data synthesis.
-* **Engineer:** Deeply hands-on with **PyTorch**, specialized in **Acoustic Modeling**, **VAD**, and **World Models**.
+* **Founder:** Leading architectural innovation at Manifestro.
+* [cite_start]**Architect:** Author of the **NNAI-S** (Neural Network Active Inference with STDP) specification — bridging the gap between biological plasticity and modern SSMs[cite: 4, 7, 14].
+* [cite_start]**Engineer:** Hands-on specialist in **PyTorch**, focusing on **Acoustic Modeling**, **Liquid Neural Networks (LNN)**, and **Predictive Coding**[cite: 18, 71].
 * **Hardware:** Developing and training high-load models on a **MacBook Air (M-series)** environment integrated with **Google Colab** clusters.
 
 ---
 
 ## 🏗 The Stack (Manifestro)
 
-### **Data & Infrastructure**
+### **Core Systems**
+* **[nnai](https://github.com/Manifestro/nnai)**: Implementation of the **NNAI-S** architecture. [cite_start]It integrates "Fast Weights" and Surprise Gating to enable real-time adaptation to non-stationary data (like speech) without catastrophic forgetting[cite: 9, 10].
 * **Aethor**: Foundational data acquisition platform. The entry point for high-quality, structured information.  
     🔗 [aethor.manifestro.io](https://aethor.manifestro.io)
 
 ### **Acoustic & Audio Intelligence (Sanday)**
-* **Sanday-Acoustic**: Our core acoustic model (currently in R&D/Training phase). Focused on robust sequence recognition and low CER.
-* **Sanday-VAD**: High-precision Voice Activity Detection for complex environments.
+* **[sanday-listen-lnn](https://github.com/Manifestro/sanday-listen-lnn)**: Leveraging Liquid Neural Networks for adaptive acoustic processing, inspired by NNAI-S principles.
+* **Sanday-Acoustic**: Our core acoustic model (currently in R&D/Training phase). [cite_start]Focused on high-precision sequence recognition and rapid speaker adaptation[cite: 119].
+* [cite_start]**Sanday-VAD**: High-precision Voice Activity Detection optimized for noisy environments[cite: 120].
 
 ### **Language & Transcription**
-* **Scribe-LM**: Specialized language modeling and transcription processing within the ecosystem.
+* **Scribe-LM**: Specialized language modeling and transcription processing within the Manifestro ecosystem.
 
 ---
 
 ## 🛠 Engineering & R&D
-I focus on high-load training and architectural innovation, leveraging:
+I focus on architectural innovation that allows models to "learn while they work":
+* [cite_start]**NNAI-S Mechanics:** Predictive coding for perception error, low-rank "Fast Weight" updates, and biological "sleep" cycles for memory consolidation[cite: 9, 46, 60].
 * **Frameworks:** Python & PyTorch.
-* **Concepts:** Implementing World Models & V-JEPA architectures.
-* **Current Goal:** Optimizing **SandayAcoustic** training metrics and implementing the principles of the new Manifestro document.
+* [cite_start]**Concepts:** Active Inference, STDP-plasticity, and Information Homeostasis[cite: 7, 10, 32].
 
 ## 📈 Status: Phase 1
-The **Manifestro** document is complete. We are currently moving from architectural theory to intensive training and integration of the **Sanday** and **Scribe** components.
+The **NNAI-S Architecture Specification (v0.1)** is ready. [cite_start]Current efforts are focused on experimental validation: achieving $WER \le 8\%$ on ASR tasks while demonstrating near-instant adaptation to new speakers[cite: 3, 138].
 
 ---
 
